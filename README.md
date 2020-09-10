@@ -6,8 +6,11 @@ For quick start, please download the dataset.
 
 ## Code Explanation
 The source/inputter implements the functions for data processing.
+
 The source/model implements all functions of MCL, including basic model, and MCL algorithm.
+
 The source/module implements all functions of basic module.
+
 The source/utils implements all functions of evaluation functions, and other utils functions.
 
 ## Quick start
